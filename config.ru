@@ -1,2 +1,2 @@
-require 'myapp'
+require 'monitor'
 run Sinatra::Application
